@@ -1,6 +1,6 @@
 # EmployeeProfiles
 
-This is a further experiment in using Meteor with React, as part of Stephen Grider's course on [Udemy](https://www.udemy.com/meteor-react-tutorial).
+This is a further experiment in using Meteor with React, as part of Stephen Grider's course on [Udemy](https://www.udemy.com/meteor-react-tutorial). This app uses Meteor's instance of MongoDB (Meteor's autopublish feature has been removed from this project).
 
 To get the app up and running, follow these steps:
 
